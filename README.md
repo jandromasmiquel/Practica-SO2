@@ -6,7 +6,7 @@ Proyecto desarrollado para la asignatura de **Sistemas Operativos II**.
 
 ---
 
-## 🏗️ Arquitectura del Sistema
+##  Arquitectura del Sistema
 
 El sistema está estructurado modularmente en capas:
 
@@ -37,7 +37,7 @@ El sistema está estructurado modularmente en capas:
 
 ---
 
-## 🚀 Compilación y Pruebas
+##  Compilación y Pruebas
 
 ### Compilar
 ```bash
@@ -56,6 +56,6 @@ make clean
 
 ---
 
-## ✒️ Autores
+##  Autores
 - Carlos López Mihi
 - Alejandro Masmiquel Casado
