@@ -23,7 +23,7 @@ El sistema está estructurado modularmente en capas:
 
 ---
 
-## 🛠️ Comandos Disponibles
+##  Comandos Disponibles
 
 - **`mi_mkfs`**: Formatea un archivo como disco virtual con el sistema de ficheros.
 - **`mi_mkdir`**: Crea un directorio en una ruta especificada.
